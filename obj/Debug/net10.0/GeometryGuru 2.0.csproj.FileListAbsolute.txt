@@ -1,0 +1,15 @@
+/Users/abc/Desktop/GeometryGuru 2.0/bin/Debug/net10.0/GeometryGuru 2.0
+/Users/abc/Desktop/GeometryGuru 2.0/bin/Debug/net10.0/GeometryGuru 2.0.deps.json
+/Users/abc/Desktop/GeometryGuru 2.0/bin/Debug/net10.0/GeometryGuru 2.0.runtimeconfig.json
+/Users/abc/Desktop/GeometryGuru 2.0/bin/Debug/net10.0/GeometryGuru 2.0.dll
+/Users/abc/Desktop/GeometryGuru 2.0/bin/Debug/net10.0/GeometryGuru 2.0.pdb
+/Users/abc/Desktop/GeometryGuru 2.0/obj/Debug/net10.0/GeometryGuru 2.0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abc/Desktop/GeometryGuru 2.0/obj/Debug/net10.0/GeometryGuru 2.0.AssemblyInfoInputs.cache
+/Users/abc/Desktop/GeometryGuru 2.0/obj/Debug/net10.0/GeometryGuru 2.0.AssemblyInfo.cs
+/Users/abc/Desktop/GeometryGuru 2.0/obj/Debug/net10.0/GeometryGuru 2.0.csproj.CoreCompileInputs.cache
+/Users/abc/Desktop/GeometryGuru 2.0/obj/Debug/net10.0/GeometryGuru 2.0.sourcelink.json
+/Users/abc/Desktop/GeometryGuru 2.0/obj/Debug/net10.0/GeometryGuru 2.0.dll
+/Users/abc/Desktop/GeometryGuru 2.0/obj/Debug/net10.0/refint/GeometryGuru 2.0.dll
+/Users/abc/Desktop/GeometryGuru 2.0/obj/Debug/net10.0/GeometryGuru 2.0.pdb
+/Users/abc/Desktop/GeometryGuru 2.0/obj/Debug/net10.0/GeometryGuru 2.0.genruntimeconfig.cache
+/Users/abc/Desktop/GeometryGuru 2.0/obj/Debug/net10.0/ref/GeometryGuru 2.0.dll
