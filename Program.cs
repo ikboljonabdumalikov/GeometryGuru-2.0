@@ -7,3 +7,11 @@ Console.Write("4. Division:[ / ]\t");
 
 Console.Write("Pick one option: ");
 string arithmeticOption = Console.ReadLine();
+
+
+Console.WriteLine("Enter the first number: ");
+double firstNumber = Convert.ToDouble(Console.ReadLine());
+
+
+Console.WriteLine("Enter the second number: ");
+double secondNumber = Convert.ToDouble(Console.ReadLine());
