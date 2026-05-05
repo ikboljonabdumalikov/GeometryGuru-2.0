@@ -6,3 +6,13 @@ node_modules/
 
 # Ignore OS generated files
 .DS_Store
+
+# Ignore .NET build output
+bin/
+obj/
+
+# Ignore Visual Studio and user files
+*.user
+*.suo
+*.userosscache
+.vs/
